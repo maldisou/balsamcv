@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import { findByTestId } from "@testing-library/react";
 
 export const Data = {
@@ -52,16 +53,16 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "Somerian Health care | UAE, Abu Dhabi",
-        period: "Sep. 2020 - Dec. 2022",
+        title: "Levard Medical Center | UAE, Abu Dhabi - Alain",
+        period: "Nov. 2021 - Current",
         company: "General Practitioner",
         description: [
-          "a member of the first-response team for COVID, emergency, and patient isolation"
+          ""
          ],
       },
       {
         title: "Almehwar Modren Medical Complex | Sudan",
-        period: "Sep. 2018 - Dec. 2019 ",
+        period: "Sep. 2018 - Sep. 2021 ",
         company: "General Practitioner",
         description: [
           "Designed healthcare treatment programs and treatments, conducted patient examinations, and diagnostic testing.",
