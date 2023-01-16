@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/balsamcv/precache-manifest.d0bdf9771158914c1aa5cb925f4297a1.js"
+  "/balsamcv/precache-manifest.b0adebd48c3abed8825e841eb16e9b41.js"
 );
 
 workbox.clientsClaim();
