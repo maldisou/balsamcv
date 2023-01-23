@@ -28,12 +28,12 @@ export const Profile = ({
           <span className="home__information">
             <i className="bx bx-envelope home__icon" /> {email}
           </span>
-          <span className="home__information">
+          {/* <span className="home__information">
             <i className="bx bx-phone home__icon" /> {telephone}
           </span>
           <span className="home__information">
             <i className="bx bx-envelope home__icon" /> {date}
-          </span>
+          </span> */}
         </div>
       </div>
       <Options />
