@@ -6,11 +6,10 @@ export const Data = {
     name: "Dr. Balsam Mohammed",
     ocupation: "General Practitioner | DOH - HAAD license | Permanent Registeration Sudan Council | AHA accredited BLS | Golden Visa Holder",
     location: "United Arab  Emirates, Abu Dhabi",
-    //email: "balsamdisougi@gmail.com",
-    email: "08. feb. 1987",
-    //telephone: "+971 552392024",
+    email: "balsamdisougi@gmail.com",
+    telephone: "+971 552392024",
     image: "images/pp.jpeg",
-    // date: "    08. feb. 1987"
+    date: "    08. feb. 1987"
   },
   aboutMe: {
     label: "Profile",
